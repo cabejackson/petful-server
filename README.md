@@ -24,7 +24,7 @@ Here's the backend which serves my [Petful Application](https://petful-client-in
 
 ### All Endpoints
 
-- /EX:
+- /api/people
 - /api/cats
 - /api/dogs
 
