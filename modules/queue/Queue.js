@@ -81,38 +81,12 @@ class Queue {
     // return firstPet;
   }
 
-  // all() {
-  //   // Return all items in the queue.
-
-  //   let node = this.head;
-  //   let all = [];
-  //   while (node !== null) {
-  //     all.push(node.value);
-  //     node = node.next;
-  //   }
-  //   return all;
-  // }
-  // all() {
-  //   // Return all items in the queue.
-  //   let node = this.head;
-  //   let array = [];
-
-  //   while (node) {
-  //     array.push(node.value);
-  //     node = node.next;
-  //   }
-
-  //   //array.push(node.value);
-
-  //   return array;
-
-  // }
   all() {
     // Return all items in the queue.
 
     let node = this.head;
-    console.log('outside', node);
     let all = [];
+    console.log('outside', node);
     while (node !== null) {
       all.push(node.value);
       node = node.next;
