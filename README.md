@@ -24,14 +24,13 @@ Here's the backend which serves my [Petful Application](https://petful-client-in
 
 ### All Endpoints
 
--- /EX:
--- /api/cats
--- /api/dogs
+- /EX:
+- /api/cats
+- /api/dogs
 
 ### /api/people - GET
 
 returns the people in the queue (aka the people in line)
-EX:
 
 ```
 {
@@ -50,7 +49,6 @@ EX:
 ### /api/cats - GET
 
 returns the cats in the queue
-EX:
 
 ```
 {
@@ -64,7 +62,7 @@ EX:
 }
 ```
 
-### /api/dog - GET
+### /api/dogs - GET
 
 returns the dogs in the queue
 EX:
