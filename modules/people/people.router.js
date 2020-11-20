@@ -1,6 +1,5 @@
 const express = require('express');
 const json = require('body-parser').json();
-const { people } = require('../../store');
 
 const People = require('./people.service');
 
