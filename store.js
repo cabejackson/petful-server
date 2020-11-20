@@ -1,14 +1,14 @@
 module.exports = {
   people: [
     'Randy Lahey',
-    'Trevor Cory',
-    'Jim Lahey',
+    //'Trevor Cory',
+    //'Jim Lahey',
     'Spider Man',
-    'Clark Kent',
+    //'Clark Kent',
     'Ororo Munroe',
-    'The Incredibles Family',
+    //'Sam Smith',
     'Black Panther',
-    'Charles Francis Xavier'
+    'Sasha Fierce'
   ],
 
   dogs: [
